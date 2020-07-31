@@ -2,7 +2,7 @@
 
 # Installation
 ```
-git clone https://github.com/AmirDoreh/booking-rest-apis.git && cd booking-rest-api
+git clone https://github.com/AmirDoreh/booking-rest-apis.git && cd booking-rest-apis
 pip install -r requirements.txt
 python manage.py migrate
 ```
